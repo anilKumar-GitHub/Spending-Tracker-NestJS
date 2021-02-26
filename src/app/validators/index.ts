@@ -1,0 +1,1 @@
+export { CategoryValidationPipe } from './category.validation.pipe';

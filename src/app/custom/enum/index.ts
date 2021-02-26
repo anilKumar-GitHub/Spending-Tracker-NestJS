@@ -1,0 +1,1 @@
+export { CategoryType } from './category.type';

@@ -1,0 +1,10 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "root",
+    "database": "spending-tracker",
+    "entities": ["src/**/entities/*.entity{.ts,.js}"],
+    "synchronize": true
+ }
